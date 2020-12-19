@@ -1,9 +1,6 @@
 # Curso de Git e Github
 
-Realizando treinamento/aprimorando conhecimento do **Git** e **Github** com o professor [Gustavo Guanabara](https://github.com/gustavoguanabara) :vulcan_salute:
-
-
-![Octocat](https://octodex.github.com/images/kimonotocat.png)
+Realizando treinamento/aprimorando conhecimento do **Git** e **Github** com o professor [Gustavo Guanabara](https://github.com/gustavoguanabara)  :vulcan_salute:
 
 ## Status do Curso
 - [x] História do Git e Github: 13/12/2020
@@ -25,3 +22,4 @@ O motivo é claro nunca ter me aprofunado nessa plataforma que é hoje bem vista
 
 Quero muito trabalhar mais diretamente com outros programadores e descobrir mais coisas que ainda preciso apreender.
 
+![Octocat](https://octodex.github.com/images/kimonotocat.png)
