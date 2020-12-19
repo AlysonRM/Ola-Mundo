@@ -1,6 +1,6 @@
 # Curso de Git e Github
 
-Realizando treinamento/aprimorando o conhecimento do **Git** e **Github** com o professor [Gustavo Guanabara](https://github.com/gustavoguanabara)  :vulcan_salute:
+Realizando treinamento/aprimoramento do conhecimento do **Git** e **Github** com o professor [Gustavo Guanabara](https://github.com/gustavoguanabara)  :vulcan_salute:
 
 ## Status do Curso
 - [x] História do Git e Github: 13/12/2020
