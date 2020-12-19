@@ -7,8 +7,7 @@ Realizando treinamento/aprimorando conhecimento do **Git** e **Github** com o pr
 - [x] Instalando e configurando: 13/12/2020
  * Git
  * Github Desktop
-    * Instalando tudo no Linux *(__bem melhor__)*
-
+    * Instalando tudo no Linux *(__bem melhor__)* 
 - [x] Comits: 19/12/2020
 - [x] Push e Pull: 19/12/2020
 - [x] Branch e Issues: 19/12/2020
