@@ -7,3 +7,5 @@ Essa linha eu adicionei diretamente no site, que impressionante
 
 Agora usando direto do meu computador linux.
 Não estou conseguindo entrar no git
+
+Agora saber se vai entender do site
