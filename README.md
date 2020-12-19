@@ -10,3 +10,5 @@ Não estou conseguindo entrar no git
 
 Agora saber se vai entender do site esta funcionando
 Agora sem a ferramenta
+
+GitDesktop, instalado com sucesso
