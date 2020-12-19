@@ -11,7 +11,7 @@ Realizando treinamento/aprimorando o conhecimento do **Git** e **Github** com o 
 - [x] Comits: 19/12/2020
 - [x] Push e Pull: 19/12/2020
 - [x] Branch e Issues: 19/12/2020
-- [ ] Markdown: 19/12/2020
+- [x] Markdown: 19/12/2020
 - [ ] Colocar um site online no Github
 
 ## Condiderações pessoais
