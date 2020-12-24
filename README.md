@@ -14,6 +14,11 @@ Realizando treinamento/aprimoramento do conhecimento do **Git** e **Github** com
 - [x] Markdown: 19/12/2020
 - [x] Segurança do GitHub: 24/12/2020
 - [ ] Colocar um site online no Github
+- [x] Colocar um site online no Github: 24/12/2020
+ - Exemplo [Curso em Video](https://alysonrm.github.io/projeto-site/)
+   - https://alysonrm.github.io/projeto-site/
+
+
 
 ## Condiderações pessoais
 
